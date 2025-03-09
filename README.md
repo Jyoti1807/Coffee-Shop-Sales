@@ -17,12 +17,6 @@ Technologies Used:-
 2.Excel for data manipulation and visualization
 3.Measures in Excel for calculations and aggregations
 
-How to Use -
-1.Clone the repository:
-git clone https://github.com/yourusername/coffee-shop-dashboard.git
-2.Open the Excel file to explore the dashboard.
-3.Use filters to analyze sales trends based on different parameters.
-
 Dataset :-
 The dataset used in this dashboard includes sales transactions from a coffee shop chain. It contains details such as order time, product categories, sales amount, and store locations.
 
